@@ -117,7 +117,7 @@
         #endregion
 
         private Panel panel1;
-        public CheckedListBox checkedListBox1;
+        private CheckedListBox checkedListBox1;
         private GroupBox groupBox1;
         private TextBox textBox1;
         private Button btnAdd;
